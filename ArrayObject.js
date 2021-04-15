@@ -15,7 +15,7 @@ if (suggestion === "The Color of Magic" || suggestion === "TheColorofMagic" || s
     console.log("Something you could like is " + Books[3] + " or possibly " + Books[1]);
 } else {
     console.log("So here are some good books to try reading: " + Books[5] + ", " + Books[6] + ", or " + Books[7]); 
-} ; 
+}  
 
 //Reason for visiting the website question
 prompt("Why did you decide to come to my webpage today? Please type one of the options: I was bored, I like books, it looked cool, my teacher made me go on your lame website", response);
@@ -43,7 +43,7 @@ else if (respnse === "my teacher made me go on your lame website" || response ==
        }
       } else {
     console.log("No offense, but you're not very good at following orders.");
-};
+}
 
 //A function making a string that is altered
 function dothings(){
