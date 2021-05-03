@@ -10,6 +10,7 @@ Homework 5: Reflection
 
 **Design**
 1. What was most helpful about thinking about design methods of your project?
+
 I think the most helpful part of thinking about design methods, was the way a thoughtfulness about the project outside of the technical difficulties. 
 Most times when focusing on a problem, I personally jump straight to the specific actions I need to take to fix the problem like if I’m told to make a website my first 
 thought is usually regarding server connections, overall layout, key functionalities and most importantly how to write the code to make these things work. 
@@ -22,6 +23,7 @@ left a clear idea of what was happening and what was needed to move forward at a
 the prep work done beforehand that left me with an incredibly clear understanding of project outline.
 
 2. What was most difficult? What would you do differently?
+
 I think the most difficult part of this was learning the language necessary to do the homeworks and progress. Maybe not the hardest thing in the world, but the overall ideas 
 presented about design weren’t hard for me. They came relatively intuitively once someone pointed them out. The harder part was just learning and remembering the new language 
 I was given to explain what were intuitive ideas and effectively communicate with my other group members. I think the communicating with group members was another hard task that
@@ -31,6 +33,7 @@ I’m not really sure there is much I would do differently. My scores show that 
 so I feel despite all difficulties there wasn’t anything I really regretted.
 
 3. What design methods might you want to try again in the future on another project?
+
 I definitely would implement wireframing again as I feel like it helps to have this visualization of what the end product should be to make it easier when focusing on 
 individual tasks. It helps provide the reference image of the whole forest while each team member is focused on the individual tree they’re painting. 
 I would also use the sequencing diagram again as I think it’s really useful for thinking through the logic of the code in abstract enough terms that it doesn’t overwhelm you 
@@ -38,9 +41,11 @@ from the beginning.
 
 **Implementation**
 1. What was most helpful about implementing, testing, and integration in your bot project?
+
 I think the most helpful aspect was the way it improved merging and avoided conflict in the code. By pulling more often to ensure the newest code was being used and committing more often than I normally would commit, it was easier to work on the code itself. I was less worried about my new features not working and having to manually resolve conflicts in the code.
  
 2. What was most difficult? What would you do differently?
+
 I think the most difficult part of this project segment was testing the bot components. Part of this came from unfamiliarity with the languages and programs, 
 using Google alarms for example. When I was researching them to use for the pomodoro technique I wasn’t familiar with its code, how it would interact with other code, 
 or even what the end result of the code would do. But I think the more difficult part was that I didn’t write the code that made it easy to test. 
@@ -49,11 +54,13 @@ If I could do this over, I think I would work on making more formalized test scr
 but test scripts like those did allow me to see clearly and quickly whether my change caused what I wanted it to in the code.
 
 3. What implementation, testing, and integration methods might you want to try again in the future on another project?
+
 I think I would want to try writing more sophisticated testing methods and developing them earlier than I did. I still have the habit of creating tests after the fact rather than before hand and not giving them a fair amount of attention. In the future I would like to change that habit so I better and more efficient methods for testing.
 
 
 **Process**
 1. What was most helpful about implementing kanban and code review in your project?
+
 For code review I think the most helpful part of that was just reinforcing the idea that having another set of eyes go over your code is a good thing.
 Many professors, especially coding professors, tend to say that it’s a good thing to have other people looking over your code to help you catch your errors, 
 but in reality it’s not really encouraged in classes. I can understand why, to a degree. No one really wants to see half the class copying from the other half and 
@@ -64,6 +71,7 @@ I think it was helpful in giving me a sense of forward momentum. Even when I was
 and watch as they progressed during our work time which helped it feel like the project was moving somewhere. 
 
 2. What was most difficult? What would you do differently?
+
 The most difficult part was implementing the kanban board. Up to this point of school any kind of planning like that was entirely up to our discretion and most times,
 not having been taught these tools before, most planning was haphazard at best. Trying to break habits of roughly talking through things and then stumbling forward in the 
 project was hard. Having to replace those habits with much more organized and structured methods of writing a universal task board with formal assignments then remembering
@@ -76,6 +84,7 @@ improve CSS design which made them seem a lot more intimidating then they had to
 create start timer for pomodoro, I think it would have been less scary approaching each task we were in charge of.
 
 3. What software processes or practices might you want to try again in the future on another project?
+
 I would definitely be using the code review in the future, assuming that my future jobs don’t see me as the sole coder/software engineer in the group.
 That was really useful for me, as it allowed me to step away from something I’d been focusing on for too long and look at it with fresh eyes, in this case literally. 
 I think the kanban boards or something similar to them would also be a technique I’d like to implement more moving forward.
