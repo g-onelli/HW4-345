@@ -38,7 +38,7 @@ from the beginning.
 
 **Implementation**
 1. What was most helpful about implementing, testing, and integration in your bot project?
- 
+I think the most helpful aspect was the way it improved merging and avoided conflict in the code. By pulling more often to ensure the newest code was being used and committing more often than I normally would commit, it was easier to work on the code itself. I was less worried about my new features not working and having to manually resolve conflicts in the code.
  
 2. What was most difficult? What would you do differently?
 I think the most difficult part of this project segment was testing the bot components. Part of this came from unfamiliarity with the languages and programs, 
@@ -49,7 +49,7 @@ If I could do this over, I think I would work on making more formalized test scr
 but test scripts like those did allow me to see clearly and quickly whether my change caused what I wanted it to in the code.
 
 3. What implementation, testing, and integration methods might you want to try again in the future on another project?
-
+I think I would want to try writing more sophisticated testing methods and developing them earlier than I did. I still have the habit of creating tests after the fact rather than before hand and not giving them a fair amount of attention. In the future I would like to change that habit so I better and more efficient methods for testing.
 
 
 **Process**
