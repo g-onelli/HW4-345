@@ -91,8 +91,7 @@ I think the kanban boards or something similar to them would also be a technique
 
 
 **Overall**
-Considering all the design methods, implementation practices, and software processes you've encountered---
-compare and contrast how the benefits of the different practices and how they might be useful together
+
 
 I feel like all the different practices we've learned thoughout the semester bleed into each other and work symbiotically, causing the whole to be worth more than the sum of 
 it's parts. For example the effect that design diagrams and prototyping can have on work division and work understanding during implementation. By using things like use 
